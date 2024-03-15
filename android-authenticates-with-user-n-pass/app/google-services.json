@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321682950283",
+    "project_id": "one-auth-project-1",
+    "storage_bucket": "one-auth-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321682950283:android:0d94d4a7b9426447f5ac8e",
+        "android_client_info": {
+          "package_name": "com.example.one_auth_project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7ZF6BXM3dYNzXroxOxi6Gp-NZsN0T1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
